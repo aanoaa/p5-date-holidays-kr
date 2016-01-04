@@ -3,7 +3,6 @@ use utf8;
 use strict;
 use warnings;
 use base qw(Exporter);
-use version; our $VERSION = version->declare("v0.0.1");
 our @EXPORT = qw(is_kr_holiday kr_holidays);
 
 =encoding utf-8
