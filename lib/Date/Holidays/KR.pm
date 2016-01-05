@@ -81,7 +81,7 @@ __END__
 
 =head1 HOLIDAY DATA
 
-http://www.nodong.or.kr/holyday/403063
+L<http://www.nodong.or.kr/holyday/403063>
 
 =head1 SEE ALSO
 
