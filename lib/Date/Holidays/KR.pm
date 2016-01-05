@@ -80,7 +80,7 @@ __END__
 
 =head1 HOLIDAY DATA
 
-L<http://www.nodong.or.kr/holyday/403063>
+L<http://www.law.go.kr/법령/관공서의공휴일에관한규정/(24828,20131105)>
 
 =head1 SEE ALSO
 
